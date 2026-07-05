@@ -1,0 +1,17 @@
+{
+  "name": "tictactoe-ai",
+  "version": "1.0.0",
+  "description": "Unbeatable Tic-Tac-Toe AI Agent using Minimax and Alpha-Beta Pruning",
+  "scripts": {
+    "dev": "npx -y live-server --port=8080 --no-browser"
+  },
+  "keywords": [
+    "tictactoe",
+    "ai",
+    "minimax",
+    "alpha-beta-pruning",
+    "game-theory"
+  ],
+  "author": "",
+  "license": "ISC"
+}
