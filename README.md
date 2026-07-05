@@ -1,6 +1,13 @@
 # 🎮 Tic-Tac-Toe AI
 
-A modern and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. The project features both **Player vs AI** and **Local PvP** modes with multiple AI difficulty levels, a live scoreboard, sound controls, and a responsive modern UI.
+A modern and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. The project features both **Player vs AI** and **Local PvP** modes with multiple AI difficulty levels, a live scoreboard, sound controls, and a responsive user interface.
+
+---
+
+## 🌐 Live Demo
+
+Play Now-> https://tic-tac-toe-mavrix1.vercel.app/
+
 
 ---
 
@@ -30,11 +37,11 @@ A modern and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaS
 - Live Score Tracking
 
 ### 🔊 User Experience
-- Responsive Layout
-- Modern Dark UI
-- Smooth Animations
-- Sound Effects Toggle
-- Interactive Controls
+- 📱 Responsive Design
+- 🌙 Modern Dark UI
+- ✨ Smooth Animations
+- 🔊 Sound Effects Toggle
+- 🎯 Interactive Controls
 
 ---
 
