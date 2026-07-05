@@ -58,50 +58,11 @@ TicTacToe/
 │── ai.js
 │── package.json
 └── README.md
-```
+
+
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/ashmit-codebase/Tic-Tac-Toe.git
-```
-
-### Open the project
-
-Simply open **index.html** in your browser.
-
-No installation required.
-
----
-
-## 🎯 Game Controls
-
-- Choose **Vs AI** or **Local PvP**
-- Select AI Difficulty (Easy / Medium / Unbeatable)
-- Choose who starts first
-- Click any cell to make your move
-- Use **Play Again** to start a new match
-- Use **Reset Scores** to clear the scoreboard
-
----
-
-## 📸 Preview
-
-### Game Interface
-
-> Add your game screenshot here.
-
-Example:
-
-```md
-![Game Preview](images/game-preview.png)
-```
-
----
 
 ## 🚀 Future Improvements
 
